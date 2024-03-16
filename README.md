@@ -18,7 +18,7 @@
 
 ## <a name="introduction">👋 Introdução</a>
 
-Geoma é uma versão simples e minimalista do Figma, apresentando diversas ferramentas como comentários, reações, desenho e design.
+Geoma é uma versão simples e minimalista do Figma, apresentando diversas ferramentas como comentários, colaboração em tempo real, desenho e design.
 
 Feito como um projeto para estudo e ainda está sendo aprimorado (aos poucos 😅)
 
