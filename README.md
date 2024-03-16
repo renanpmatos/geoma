@@ -1,5 +1,4 @@
 <div align="center">
-  
   <h1 align="center">Geoma - Design and Colaborate</h1>
   <img src="https://github.com/renanpmatos/geoma/blob/main/public/using-geoma.jpg" alt="usinggeoma"/>
   <div>
@@ -7,6 +6,8 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
+  <br>
+  <a href="https://geoma-renans-projects-181ce21b.vercel.app">Confira o projeto em Tempo Real</a>
 </div>
 
 ## 📋 <a name="table">Conteúdos</a>
@@ -27,7 +28,7 @@ Deixo aqui os créditos de agradecimento 🙏
 [Liveblocks] <a href="https://www.youtube.com/watch?v=eFbXTo0aanQ&list=PL2pIUuSexvpj06xlkyfaUSwMrI5fCGRJA&index=6">Implementação Liveblocks com react</a>
 
 (Recomendo muito esse canal, possuí conteúdos excelentes que são de grande ajuda para desenvolver aplicações com JavaScript 👏)
-[JSMastery] <a href="https://youtu.be/oKIThIihv60?si=m0L7K3SR54cjmr6h">Figma Clone</a>
+[JSMastery] <a href="https://youtu.be/oKIThIihv60?si=m0L7K3SR54cjmr6h">Figma Clone com Fabric.js</a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
